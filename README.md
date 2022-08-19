@@ -1,9 +1,6 @@
 # batch-kernelos
 A simple OS made in batch
-
-## Supported Windows Versions
-
-Use this section to get what windows version is supported.
+# Supported windows version
 
 | Version          | Supported            |
 | -------          | ------------------   |
